@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title: Value of Retro Video Games - Fair Pricing based on pictures and videos of objects and available data on game (barcode, SKU, edition, # of copies sold, completeness, etc.)
+# Determie Value of Retro Video Games based on pictures and videos
 
 Final project for the Building AI course
 
